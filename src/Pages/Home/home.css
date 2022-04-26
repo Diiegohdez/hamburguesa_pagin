@@ -44,6 +44,7 @@
     text-decoration:none;
     font-size: 20px;
     background-color: #121619;
+    margin-left: 60px;
 }
 
 .headerContainer button:hover{
@@ -86,6 +87,7 @@
         background-color: white;
         color: #121619;
         margin-bottom: 30px;
+        margin-right: 55px;
 
     }
 
