@@ -25,6 +25,7 @@ function Navbar() {
             <Link to="/">Inicio</Link>
             <Link to="/Producto">Menu</Link>
             <Link to="Contactanos">Contacto</Link>
+            <Link to="Abouts">Abouts</Link>
             <button onClick={toggleNavbar}>
               <ArrowDropDownCircle/>
             </button>
