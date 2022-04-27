@@ -60,7 +60,8 @@
 
 .Navbar #open .hiddeLink{
     display: inherit;
-    margin-left: 5px;
+    margin-left: -60px;
+    
 }
 
 .Navbar #close .hiddeLink{
@@ -87,8 +88,9 @@
     }
 
     .Navbar .NavbarRight  {
-        justify-content: flex-end;
-        padding-right: 50px;
+        justify-content: space-around;
+        padding-right: 4px;
+        
     }
 
     .Navbar .NavbarRight button {

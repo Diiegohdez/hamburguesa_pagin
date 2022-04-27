@@ -83,3 +83,46 @@
     cursor: pointer;
     margin-left: 40px;
 }
+
+
+@media only screen and (min-width:650px){
+    .ContactLeft{
+        width: 100%;
+        
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+
+    
+    
+    
+}
+
+@media only screen and (max-width:650px){
+    .ContactButton{
+        margin-left: 15px;
+    }
+
+    .ContactTitle{
+        font-size: 30px;
+        margin-right: 50px;
+        
+    }
+
+    .ContactLabel{
+        font-size: 20px;
+    }
+    .ContactInput{
+        width: 50%;
+    }
+
+    .ContactText{
+        width: 50%;
+    }
+    
+        
+    
+}

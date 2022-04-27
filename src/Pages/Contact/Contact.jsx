@@ -6,10 +6,10 @@ function Contact() {
     <div className="Contact">
       <div className="ContactLeft" style={{ 
       backgroundImage: `url("https://images.pexels.com/photos/2280573/pexels-photo-2280573.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")` 
-    }}>g</div>
+    }}></div>
 
       <div className="ContactRight">
-        <h1>Contactanos</h1>
+        <h1 className="ContactTitle">Contactanos</h1>
         <form id="Contact-Form" method="POST"> 
            <label className="ContactLabel" thmlFor="name">Nombre</label>
            <input className="ContactInput" name="name" placeholder="Ingrese su Nombre Completo " type="text"/>
